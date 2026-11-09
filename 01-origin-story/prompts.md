@@ -24,6 +24,12 @@ prompt library built from your own questions.
 
 ### 1.
 
+What's contradictory or missing across the wiki pages, the handover note, and the rest of this folder?
+
 ### 2.
 
+What documentation is there on the 4.2 release?
+
 ### 3.
+
+Let's focus on the release database notes only in the above against customer feedback.
